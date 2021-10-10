@@ -10,7 +10,7 @@ bool verify(vector<int> a) {
 	return true;
 }
 int main() {
-
+	// this program get information of numbers from txt file
 	ifstream fin("input.txt");
 	
 	vector<int> before;
